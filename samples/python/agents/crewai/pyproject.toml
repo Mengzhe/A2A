@@ -8,6 +8,7 @@ dependencies = [
     "crewai[tools]>=0.95.0",
     "google-genai>=1.9.0",
     "a2a-samples",
+    "Pillow",
 ]
 
 [tool.uv.sources]
